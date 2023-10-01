@@ -15,3 +15,8 @@ User Identity Verification: In some cases, additional identity verification step
 Password Reset: Once the user verifies their identity, they are typically allowed to set a new password for their account. The old password is invalidated.
 
 Logging and Monitoring: It's important to log and monitor password recovery attempts to detect and prevent any suspicious activity.
+
+
+When implementing a password recovery module, it's essential to follow best practices for security. This includes proper encryption of sensitive data, secure communication channels, and protection against common attacks like phishing.
+
+User Education: Users should be educated about the password recovery process and how to keep their accounts secure. They should be encouraged to use strong, unique passwords.
